@@ -1,0 +1,13 @@
+body{
+background-color:#F8E8A6;
+text-align: center;
+}
+.navigation-links {
+    color: green;
+    padding: 10px;
+    }
+img{
+    display: block;
+    margin: 20px auto ;
+    border-radius: 8px;
+}
